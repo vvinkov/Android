@@ -1,0 +1,14 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.example.rememberer.ItemDetailsActivity">
+
+    <item
+        android:id="@+id/deleteItemHistory"
+        android:orderInCategory="100"
+        android:title="@string/action_delete"
+        app:showAsAction="never"
+        android:visible="false"
+        android:onClick="deleteItemHistory"/>
+
+</menu>

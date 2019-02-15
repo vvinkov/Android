@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Rememberer</string>
+    <string name="action_search">Search</string>
+    <string name="action_newItem">New</string>
+    <string name="itemName">Item name</string>
+    <string name="cancelBtnText">Cancel</string>
+    <string name="addBtnText">Save</string>
+    <string name="txtViewPriorityText">Priority</string>
+    <string name="editTextName">Name</string>
+    <string name="title_activity_item_details">ItemDetailsActivity</string>
+    <string name="action_settings">Settings</string>
+    <string name="action_delete">Delete</string>
+    <string name="main_title">Main menu</string>
+    <string name="details_title">Details of </string>
+    <string name="history_title">History of </string>
+    <string name="access_token">pk.eyJ1IjoibHVrYW1pa2VjIiwiYSI6ImNqcjJmYzZnazBrMXE0MnFtaGk1dDlvdGoifQ.Vt0WjQNTEQ4uuLhC50AUEw</string>
+</resources>
